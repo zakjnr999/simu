@@ -92,19 +92,19 @@ graph LR
 
 ## 📱 App Showcase
 
-> *Tip: Screenshots captured directly from the live Flutter application.*
+> *Screenshots captured directly from the live Flutter application on iOS (iPhone 17).*
 
-| Onboarding & Goal Calibration | Meet Ace (AI Companion) | Your Simu Journey Path |
+| 01. Brand Splash & Entrance | 02. Interactive Goal Selection | 03. Velvet Curtain Transition |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/01_onboarding.png" width="260" alt="Onboarding" onerror="this.src='https://placehold.co/600x1200/6C5CE7/FFFFFF?text=Onboarding+Goal+Selection'" /> | <img src="assets/screenshots/02_meet_ace.png" width="260" alt="Meet Ace" onerror="this.src='https://placehold.co/600x1200/F59E0B/FFFFFF?text=Meet+Ace+Mascot'" /> | <img src="assets/screenshots/03_journey.png" width="260" alt="Journey Map" onerror="this.src='https://placehold.co/600x1200/10B981/FFFFFF?text=Simu+Journey+Path'" /> |
+| <img src="assets/screenshots/01_splash_screen.png" width="270" alt="Brand Splash & Entrance" /> | <img src="assets/screenshots/02_goal_selection.png" width="270" alt="Interactive Goal Selection" /> | <img src="assets/screenshots/03_curtain_transition.png" width="270" alt="Velvet Curtain Transition" /> |
+| *Full-screen landscape illustration with Ace & animated loader* | *Step 1 calibration with tactile 3D cards & XP bounties* | *Physics-driven purple velvet curtain reveal animation* |
 
-| Home Hub & Daily Quests | Practice Library | Scenario Briefing |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/04_home_hub.png" width="260" alt="Home Hub" onerror="this.src='https://placehold.co/600x1200/6C5CE7/FFFFFF?text=Home+Hub+%26+Quests'" /> | <img src="assets/screenshots/05_practice_library.png" width="260" alt="Practice Library" onerror="this.src='https://placehold.co/600x1200/3B82F6/FFFFFF?text=Practice+Library'" /> | <img src="assets/screenshots/06_challenge_intro.png" width="260" alt="Challenge Intro" onerror="this.src='https://placehold.co/600x1200/8B5CF6/FFFFFF?text=Scenario+Briefing'" /> |
+<br />
 
-| Live Simulation (Dialogue & Voice) | Performance Evaluation & XP | Achievements & Trophy Room |
+| 04. Meet Ace (AI Companion) | 05. Personalized Journey Roadmap | 06. Home Hub & Daily Quests |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/07_live_simulation.png" width="260" alt="Live Simulation" onerror="this.src='https://placehold.co/600x1200/F43F5E/FFFFFF?text=Live+AI+Simulation'" /> | <img src="assets/screenshots/08_evaluation_results.png" width="260" alt="Results Page" onerror="this.src='https://placehold.co/600x1200/10B981/FFFFFF?text=Evaluation+%26+XP+Breakdown'" /> | <img src="assets/screenshots/09_achievements.png" width="260" alt="Achievements" onerror="this.src='https://placehold.co/600x1200/F59E0B/FFFFFF?text=Trophy+Cabinet'" /> |
+| <img src="assets/screenshots/04_meet_ace.png" width="270" alt="Meet Ace Companion" /> | <img src="assets/screenshots/05_journey_roadmap.png" width="270" alt="Personalized Journey Roadmap" /> | <img src="assets/screenshots/06_home_hub.png" width="270" alt="Home Hub & Quests" /> |
+| *Ace introduction with speech bubble & 3-step value pillars* | *Interactive 3D floating island checkpoints & XP summary* | *Level badge, today's challenge, streak & paw navigation* |
 
 ---
 
